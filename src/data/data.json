@@ -1,0 +1,280 @@
+{
+  "top_card": [
+    {
+      "img": "https://i.ibb.co/yB1LQTb/user.png",
+      "count": "3540",
+      "title": "Total Patients"
+    },
+    {
+      "img": "https://i.ibb.co/hBdB7ts/total-TDM.png",
+      "count": "3540",
+      "title": "Total TDMs"
+    },
+    {
+      "img": "https://i.ibb.co/42C4g50/total-Doctor.png",
+      "count": "3540",
+      "title": "Total Doctors"
+    },
+    {
+      "img": "https://i.ibb.co/r0cnnTs/total-consult.png",
+      "count": "3540",
+      "title": "Total Consultations"
+    },
+    {
+      "img": "https://i.ibb.co/GxfPm5r/active-TDM.png",
+      "count": "3540",
+      "title": "Active TDMs"
+    },
+    {
+      "img": "https://i.ibb.co/3rcCgyx/active-Doctors.png",
+      "count": "3540",
+      "title": "Active Doctors"
+    }
+  ],
+
+  "dashboard_graph": [
+    {
+      "title": "Doctor Acquisitions",
+      "filters": [
+        { "title": "This Year", "dropDown": "0" },
+        { "title": "This Month", "dropDown": "0" },
+        { "title": "This Week", "dropDown": "0" },
+        { "title": "Today", "dropDown": "0" },
+        { "title": "Custom", "dropDown": "0" }
+      ],
+      "img": "https://i.ibb.co/b23mHTd/graph1.png"
+    },
+    {
+      "title": "Income Accumulation Graph",
+      "filters": [
+        { "title": "Select Timespan", "dropDown": "1" },
+        { "title": "Custom", "dropDown": "1" }
+      ],
+      "label": [
+        { "title": "Our Commission", "color": "#3767B1" },
+        { "title": "Total Revenue", "color": "#D0C802" }
+      ],
+      "img": "https://i.ibb.co/VxDQcmW/graph2.png"
+    }
+  ],
+
+  "dashboard_bar_graph": [
+    {
+      "title": "Consultation Timeliness: Completed vs. Cancelled",
+      "filters": [{"title":"This Year"},{"title":"This Month"},{"title":"This Week"},{"title":"Today"},{"title":"Custom"}],
+      "img": "https://i.ibb.co/XFLSmGX/barGraph.png",
+      "label": [
+        {
+          "title": "Total Consultations",
+          "color": "#3767B1"
+        },
+        {
+          "title": "Cancelled",
+          "color": "#FD6F6F"
+        },
+        {
+          "title": "Completed",
+          "color": "#72DC41"
+        }
+      ]
+    }
+  ],
+
+  "Consultation_Insights": {
+    "title": "Consultation Insights",
+    "lists": [
+      { "title": "Daily Consultation", "count": "124", "color": "#F3EFFF" },
+      { "title": "Consultation Duration", "count": "21:00", "color": "#FFF5EC" },
+      { "title": "Avg Consultation Fee", "count": "₹300", "color": "#E7F9E9" },
+      { "title": "Mini-Consultation fee", "count": "₹145", "color": "#DDEBFF" },
+      { "title": "Max-Consultation Fee", "count": "₹650", "color": "#DFFFFD" }
+    ],
+    "dropDown": { "title": "Select Duration" },
+    "img": "https://i.ibb.co/0ctfsC7/i.png"
+  },
+  "other_costs": {
+    "title": "Server Cost and Bandwidth Overview",
+    "lists": [
+      {
+        "title": "Server Cost",
+        "costs": [
+          { "title": "Today:", "cost": "₹10,000" },
+          { "title": "This Month:", "cost": "₹10,000" },
+          { "title": "Last Month:", "cost": "₹10,000" },
+          { "title": "This Year:", "cost": "₹10,000" }
+        ]
+      },
+      {
+        "title": "Bandwidth Cost",
+        "costs": [
+          { "title": "Today:", "cost": "300 GB" },
+          { "title": "Yesterday:", "cost": "278 GB" },
+          { "title": "7 Day Average:", "cost": "320 GB" },
+          { "title": "Peak Today:", "cost": "27 Mbps @ 21:00" }
+        ]
+      }
+    ],
+    "last_updated": "Last Backup at 20:41 on 21.05.2024"
+  },
+
+  "compare_chats": {
+    "title": "Compare Chats",
+    "img": "https://i.ibb.co/5vwhyB4/compare-chats.png"
+  },
+
+  "sidebar_main": [
+    {
+      "title": "Dashboard",
+      "img": "https://i.ibb.co/y8nf515/dashboard.png"
+    },
+    {
+      "title": "TDM",
+      "img": "https://i.ibb.co/fG0G6wn/TDM.png"
+    },
+    {
+      "title": "TDM locations",
+      "img": "https://i.ibb.co/fG0G6wn/TDM.png"
+    },
+    {
+      "title": "TDM locations",
+      "img": "https://i.ibb.co/fG0G6wn/TDM.png"
+    },
+    {
+      "title": "Revenue Management",
+      "img": "https://i.ibb.co/VjMZJGF/revenue.png"
+    }
+  ],
+
+  "sidebar_footer": {
+    "title": "Logout",
+    "img": "https://i.ibb.co/S7Qtv3n/Login.png"
+  },
+
+  "doctors": [
+    {
+      "img": "https://i.ibb.co/Tv0CW5T/doctor-1.png",
+      "name": "Bessie Cooper",
+      "Id": "#51674738",
+      "email": "debra.holt@example.com",
+      "location": "City,Pin-00000",
+      "contactNo": "0000000000"
+    },
+    {
+      "img": "https://i.ibb.co/FHkJzSM/doctor-2.png",
+      "name": "Devon Lane",
+      "Id": "#51674738",
+      "email": "bill.sanders@example.com",
+      "location": "City,Pin-00000",
+      "contactNo": "0000000000"
+    },
+    {
+      "img": "https://i.ibb.co/Jy1Mtkf/doctor-3.png",
+      "name": "Kristin Watson",
+      "Id": "#51674738",
+      "email": "bill.sanders@example.com",
+      "location": "City,Pin-00000",
+      "contactNo": "0000000000"
+    },
+    {
+      "img": "https://i.ibb.co/D5x1wxM/doctor-4.png",
+      "name": "Cameron Will",
+      "Id": "#51674738",
+      "email": "bill.sanders@example.com",
+      "location": "City,Pin-00000",
+      "contactNo": "0000000000"
+    },
+    {
+      "img": "https://i.ibb.co/D5x1wxM/doctor-4.png",
+      "name": "Cameron Will",
+      "Id": "#51674738",
+      "email": "bill.sanders@example.com",
+      "location": "City,Pin-00000",
+      "contactNo": "0000000000"
+    },
+    {
+      "img": "https://i.ibb.co/D5x1wxM/doctor-4.png",
+      "name": "Cameron Will",
+      "Id": "#51674738",
+      "email": "bill.sanders@example.com",
+      "location": "City,Pin-00000",
+      "contactNo": "0000000000"
+    }
+  ],
+
+  "revenue_dashboard_graph": [
+    {
+      "title": "Revenue Accumulation Graph",
+      "dropDown": [
+        { "title": "Select Timespan" },
+        { "title": "Select Service" }
+      ],
+      "img": "https://i.ibb.co/VxDQcmW/graph2.png",
+      "label": [
+        { "title": "Our Commission", "color": "#3767B1" },
+        { "title": "Total Revenue", "color": "#D0C802" }
+      ]
+    }
+  ],
+
+  "revenue_dashboard_pie_cart": [
+    {
+      "title": "Revenue Distribution by Source",
+      "dropDown": { "title": "Select Timespan" },
+      "img": "https://i.ibb.co/3fjSXbf/pieChart.png",
+      "label": [
+        { "title": "Online Consultations", "color": "#94D13D" },
+        { "title": "Online Consultations", "color": "#2DDAC1" },
+        { "title": "Online Consultations", "color": "#2D99FE" },
+        { "title": "Online Consultations", "color": "#6F58E9" }
+      ]
+    }
+  ],
+
+  "revenue_card": [
+    {
+      "img": "https://i.ibb.co/THst54K/plane.png",
+      "title": "Total Revenue",
+      "amount": "₹2,00,000"
+    },
+    {
+      "img": "https://i.ibb.co/THst54K/plane.png",
+      "title": "Total Commission",
+      "amount": "₹1,50,000"
+    },
+    {
+      "img": "https://i.ibb.co/THst54K/plane.png",
+      "title": "Revenue from Online Consultation",
+      "amount": "₹10000"
+    },
+    {
+      "img": "https://i.ibb.co/THst54K/plane.png",
+      "title": "Return of Investment (ROI)",
+      "amount": "₹1,50,000"
+    }
+  ],
+
+  "revenue_table": [
+    {
+      "title": "Average Revenue Per Patient",
+      "amount": "₹565"
+    },
+    {
+      "title": "Average Revenue Per Doctor",
+      "amount": "₹565"
+    },
+    {
+      "title": "Average Revenue Per TDM Machine",
+      "amount": "₹5065"
+    }
+  ],
+
+  "data_export_card": {
+    "img": "https://i.ibb.co/YD0nbbd/export.png",
+    "dropDown": "Select The Format",
+    "option": [
+      { "title": "Export the Current Data" },
+      { "title": "Export the Whole Data" }
+    ],
+    "btn": "Export Data"
+  }
+}

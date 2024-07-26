@@ -105,7 +105,7 @@ export const RevenuePage = () => {
           <div>
             {
               revenue_dashboard_pie_cart.map((item, indx) => (
-                <div className="flex flex-col w-[366px] gap-[15px] items-center bg-white rounded-[24px] py-[25px] px-[5px] justify-between">
+                <div key={indx} className="flex flex-col w-[366px] gap-[15px] items-center bg-white rounded-[24px] py-[25px] px-[5px] justify-between">
                   <div className="flex flex-col gap-[10px]">
                     <div className="text-bold">
                       {item.title}
